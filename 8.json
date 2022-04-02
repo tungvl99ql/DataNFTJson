@@ -1,0 +1,11 @@
+{
+    "Type": "Jogger",
+    "Durability": 100,
+    "Id": 8,
+    "ImageId": 10,
+    "Level": 5,
+    "Efficiency": 3,
+    "Luck": 3,
+    "Comfort": 8,
+    "Resilience": 3
+}

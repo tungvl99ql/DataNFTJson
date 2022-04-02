@@ -1,0 +1,11 @@
+{
+    "Type": "Walker",
+    "Durability": 100,
+    "Id": 1,
+    "ImageId": 2,
+    "Level": 5,
+    "Efficiency": 3,
+    "Luck": 3,
+    "Comfort": 8,
+    "Resilience": 3
+}
